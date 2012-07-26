@@ -1,0 +1,1 @@
+-s C:/TEMP/ICCAT_SMU.shp -d wpr06 -H lprdbwo2.fao.org -S FIGIS_GIS -u figis_gis -p exfhxfab -P 3306
